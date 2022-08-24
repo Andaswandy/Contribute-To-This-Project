@@ -1,0 +1,12 @@
+			<td class="td-1" align="center"><span class="span-1"><b id="hrs"></b></span></td>
+			<td width="5%">&nbsp;</td>
+			<td class="td-1" align="center"><span class="span-1"><b id="mins"></b></span></td>
+			<td width="5%">&nbsp;</td>
+			<td class="td-1" align="center"><span class="span-1"><b id="secs"></b></span></td>
+		  </tr>
+		  <tr>
+			<td align="center"><span class="title-1"><b>HRS</b></span></td>
+			<td>&nbsp;</td>
+			<td align="center"><span class="title-1"><b>MINS</b></span></td>
+			<td>&nbsp;</td>
+			<td align="center"><span class="title-1"><b>SECS</b></span></td>
